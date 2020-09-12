@@ -1,2 +1,2 @@
-# RDIP
+# rdip
 this is first ASSIGNMENT
